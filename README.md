@@ -1,0 +1,2 @@
+# CM3015-Machine-Learning-and-Neural-Networks-finals-project
+Developed a deep learning model using Python, TensorFlow and Scikit-learn to perform sentiment analysis on Steam game reviews. Applied NLP techniques, TF-IDF vectorisation and neural networks to classify positive and negative reviews, achieving 86% accuracy. Implemented regularisation and hyperparameter tuning to improve model performance.
